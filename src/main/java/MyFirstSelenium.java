@@ -1,4 +1,4 @@
- public static void main(String[] args) {
+ /*public static void main(String[] args) {
         //setup chromedriver
         WebDriverManager.chromedriver().setup();
         //create chromedriver object
@@ -6,3 +6,4 @@
         //open some website
         driver.get("http://google.com");
         }
+*/
